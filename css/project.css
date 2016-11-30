@@ -1,6 +1,6 @@
-#storyview-banner {
+#hearing-banner {
 	background: linear-gradient( rgba(0, 0, 0, 0.65) 60%, rgba(0, 0, 0, 0.15)),
-				url('../portfolio/storyview-banner.jpg') no-repeat;
+				url('../portfolio/hearing-banner.jpg') no-repeat;
 	-moz-background-size:100% 100% ;
 	-webkit-background-size:100% 100%;
 	background-size:100% 100%;
@@ -14,8 +14,8 @@
     
 }
 
-#rascal-banner {
-  background: url('../portfolio/rascal-banner.jpg') no-repeat;
+#raptor-banner {
+  background: url('../portfolio/raptor-banner.jpg') no-repeat;
   -moz-background-size:100% 100% ;
   -webkit-background-size:100% 100%;
   background-size:100% 100%;
@@ -29,8 +29,8 @@
     
 }
 
-#formwear-banner {
-  background: url('../portfolio/formwear-banner.png') no-repeat;
+#stats-banner {
+  background: url('../portfolio/stats-banner.jpg') no-repeat;
   -moz-background-size:100% 100% ;
   -webkit-background-size:100% 100%;
   background-size:100% 100%;
@@ -44,8 +44,8 @@
     
 }
 
-#audity-banner {
-  background: url('../portfolio/audity-banner.jpg') no-repeat;
+#bmes-banner {
+  background: url('../portfolio/bmes-banner.jpg') no-repeat;
   -moz-background-size:100% 100% ;
   -webkit-background-size:100% 100%;
   background-size:100% 100%;
@@ -59,8 +59,8 @@
     
 }
 
-#stitch-banner {
-  background: url('../portfolio/stitch-banner.jpg') no-repeat;
+#veterinary-banner {
+  background: url('../portfolio/veterinary-banner.jpg') no-repeat;
   -moz-background-size:100% 100% ;
   -webkit-background-size:100% 100%;
   background-size:100% 100%;
@@ -73,58 +73,6 @@
     
 }
 
-#meemo-banner {
-	background: linear-gradient( rgba(0, 0, 0, 0.65) 60%, rgba(0, 0, 0, 0.15)),
-				url('../portfolio/meemo-banner.jpg') no-repeat;
-	-moz-background-size:100% 100% ;
-	-webkit-background-size:100% 100%;
-	background-size:100% 100%;
-    max-width: 100%;
-    width:100%;
-    
-    height:675px;
-  	max-height: 675px;
-  	margin: 0;
-  	display:block;
-    
-}
-
-#onpatient-banner {
-  background: url('../portfolio/onpatient-banner.jpg') no-repeat;
-  -moz-background-size:100% 100% ;
-  -webkit-background-size:100% 100%;
-  background-size:100% 100%;
-    max-width: 100%;
-    width:100%;
-    height:675px;
-    max-height: 675px;
-    margin: 0;
-    display:block;
-    
-}
-
-#onpatient-banner .multiple-button-container {
-	position:relative;
-	margin: auto;
-	width:75%;
-	height:250px;
-
-    
-}
-
-#external-link {
-	position:relative;
-	top:0px;
-
-}
-
-#onpatient-banner .onpatient-download {
-	
-	position:relative;
-	top:11px;
-	margin-left:-175px;
-	margin-right:125px;
-}
 
 .header-content {
 	width: 85%;
