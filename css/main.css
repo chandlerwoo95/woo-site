@@ -206,7 +206,7 @@ ABOUT ME
 *********************************/
 
 #about {
-	margin-bottom:50px;
+	margin-bottom:60px;
 
 }
 #paragraph {
@@ -232,7 +232,7 @@ ABOUT ME
 	width:48%;
 	margin-top: 20px;
 	margin-right:30px;
-	padding-top:75%;
+	height:550px;
 	float:right;
 
 	background: url('../images/collage2.jpg') no-repeat;
