@@ -49,8 +49,6 @@ nav .left-nav {
 
 #profile-logo {
 	float:left;
-	height:75px;
-	width:75px;
 	background: url("../images/CWlogo.jpg") center;
 	background-size: 100%;
 	transition: all 200ms linear;
